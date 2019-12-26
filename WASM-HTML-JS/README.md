@@ -1,6 +1,11 @@
 ## Preambule
 
-[WebAssembly Project](https://webassembly.org)
+Resources about webAssembly:
+
+* [WebAssembly Project](https://webassembly.org)
+* [WebAssembly Docs by Mozilla](https://developer.mozilla.org/en-US/docs/WebAssembly)
+* [Introdution to WebAssembly](https://webassembly.org)
+* [Emscripten - WASM Compiler for Linux](https://github.com/emscripten-core/emscripten)
 
 For the script `polyglot_custom_generator.py`, you will need to install:
 
